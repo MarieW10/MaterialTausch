@@ -1,0 +1,7 @@
+a = int(input())
+
+x=44+a
+y=44+3*x
+z=a*x+4*y
+
+print(z)

@@ -1,0 +1,11 @@
+#Was wird durch folgende Sequenz ausgegeben?
+
+x = 4
+y = int(input("Geben Sie ein y ein  "))
+x = y+x
+x = x+y
+x = 3*y + x
+x = x-5*y
+print(x)
+
+#Antwort: x wird wieder ausgegeben!

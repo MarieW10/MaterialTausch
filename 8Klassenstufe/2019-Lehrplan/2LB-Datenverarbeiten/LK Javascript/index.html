@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Ernährungssimulator</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+          function ausgeben(){
+	    ausgabeFeld.value = parseFloat(eingabeGewicht.value) + " Gramm " + eingabeName.value + " enthalten " + parseFloat(eingabeGewicht.value)*parseFloat(eingabeBrennwert.value)/100 + " kcal.";
+	  }
+	</script>
+    </head>
+    <body>
+        <input id="eingabeName" placeholder="Name deines Nahrungsmittels eingeben." size="50" > <br>
+        <input id="eingabeGewicht" placeholder="Gewicht deines Nahrungsmittels eingeben. (in Gramm)" size="50" > <br>
+        <input id="eingabeBrennwert" placeholder="Brennwert eingeben. (in kcal pro 100g)" size="50" > <br> <br>
+        <button onclick="ausgeben();">ausgeben</button> <br> <br>
+        <textarea id="ausgabeFeld"></textarea> <br>
+    </body>
+</html>

@@ -1,0 +1,5 @@
+0001;Lorenz;Sophia;03725 Mausbach Mühlweg 4;1;Leiterin
+0002;Hohl;Tatjana;49262 Mausloch Käsereistr. 5;2;Leiterin
+0003;Willschrei;Theodor;03453 Katzbergen Ahornweg 4;2;Mitarbeiter
+0004;Richter;Hans;78943 Katzenhausen Buchenweg 28;3;Leiter
+0005;Wiesenland;Brunhilde;02518 Hundsberg Mopsstr. 45;3;Mitarbeiterin

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Name_Vorname_Holzwurm.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="546.32933"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#552200;fill-rule:evenodd;stroke:#000000;stroke-width:9.437;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3336"
+       cx="411.42859"
+       cy="639.67731"
+       rx="514.1673"
+       ry="335.76813" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:276.88327026px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-76.68856"
+       y="694.95819"
+       id="text3338"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3340"
+         x="-76.68856"
+         y="694.95819"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script'">Holzwurm</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.0887574;opacity:0.252"
+       id="path4142"
+       sodipodi:cx="-862.85712"
+       sodipodi:cy="289.50507"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="362.90213"
+       sodipodi:argument="-18.375345"
+       sodipodi:t0="0"
+       d="m -862.85712,289.50507 c 16.18755,8.30865 -3.21353,25.91968 -13.80952,26.90476 -28.71449,2.6695 -44.06407,-30.27295 -40,-54.52382 7.26967,-43.37911 55.81065,-63.79964 95.2381,-53.09522 57.86138,15.70915 83.97078,81.6408 66.19046,135.95238 -23.69836,72.38879 -107.5677,104.31853 -176.66667,79.2857 -86.95395,-31.50127 -124.75585,-133.539 -92.38095,-217.38096 39.21035,-101.54385 159.53496,-145.244625 258.09527,-105.47617 116.14991,46.86576 165.76571,185.54619 118.5714,298.80954 C -702.10674,530.74829 -859.1867,586.28963 -987.14285,531.64791 -1132.5348,469.56052 -1194.0089,294.05158 -1131.9047,151.4098 -1062.2332,-8.6127063 -868.27445,-76.024941 -710.95233,-6.4472971 -536.29495,70.797076 -462.94069,283.22088 -539.99999,455.21938"
+       transform="matrix(1.4990459,0,0,1.0775509,1662.7213,334.16859)" />
+  </g>
+</svg>

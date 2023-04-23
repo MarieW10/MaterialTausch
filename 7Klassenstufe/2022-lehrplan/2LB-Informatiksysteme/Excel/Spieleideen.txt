@@ -1,0 +1,13 @@
+- Zahlenraten
+
+- Sudoku
+
+- Bilder zeichnen
+
+- Glücksrad/Würfelsimulation
+
+- Tic-Tac-Toe
+
+- Schiffe versenken
+
+- Kniffel

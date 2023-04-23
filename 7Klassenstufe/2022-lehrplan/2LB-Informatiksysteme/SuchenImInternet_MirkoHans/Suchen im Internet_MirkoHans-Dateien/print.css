@@ -1,0 +1,51 @@
+body{background-color:#FFFFFF;padding-top:20px;padding-bottom:20px;padding-left:60px;
+	 padding-right:60px;}
+
+h1	{font-family:"Times New Roman",Arial;font-size:18pt;color:#000000;}
+h2	{font-family:"Times New Roman",Arial;font-size:16pt;color:#000000;}
+h3	{font-family:"Times New Roman",Arial;font-size:14pt;color:#000000;}
+h4	{font-family:"Times New Roman",Arial;font-size:12pt;font-weight: bold;color:#000000;}
+h5	{font-family:"Times New Roman",Arial;font-size:12pt;text-decoration: underline; color:#000000;}
+
+p	{font-family:"Times New Roman",Helvetica,Arial,sans-serif;font-size:12pt;text-align: left; color:#000000;}
+
+/* Merksatz mit Rahmen */
+p.anmerkung	{border: 2pt solid purple; background-color: lightcyan;
+			 margin: 12px 12px 12px 12px; padding: 3px 3px 3px 3px;
+  	 		 font-family:"Times New Roman",Arial;
+			 font-size:12pt;text-align: left; color:#000000;}
+
+p.quelltext	{font-family: "Courier New"; font-size: 12pt;color:#000000;}
+
+.nichtdrucken {display:none;} /* Dieser Bereich wird nicht gedruckt */
+.text	{font-family:"Times New Roman",Arial;font-size:12pt;color:#000000;}
+.quelltext	{font-family: "Courier New"; font-size: 12pt;color:#000000;}
+.hervorhebung	{font-family:"Times New Roman",Arial;font-size:12pt;font-style: italic; color:#000000;}
+.anmerkung	{border: 2pt solid purple; background-color: lightcyan;
+			 margin: 12px 12px 12px 12px; padding: 3px 3px 3px 3px;
+			 font-family:"Times New Roman",Arial;
+			 font-size:12pt;text-align: left; color:#000000;}
+.klein {font-family:"Times New Roman",Arial;font-size:10pt;color:#000000;}			 
+.sehr_klein	{font-family:"Times New Roman",Arial;font-size:8pt;color:#000000;}	
+.griechisch {font-family: "Symbol";font-size:12pt;text-align: left; color:#000000;}	 
+
+a.intern: link	{color:#0080FF;}
+a.intern: visited	{color:#551A8B;}
+a.intern: active, a.intern: hover	{color:#00C0FF; text-decoration: underline;}
+
+a.extern: link	{color:#0040FF;}
+a.extern: visited	{color:#551A8B;}
+a.extern: active, a.extern: hover	{color:#0040FF; text-decoration: underline;}
+
+ul	{list-style-type: square;}
+
+ol	{list-style-type: decimal outside;}
+
+/* Festlegungen für Tabellen*/
+table	{border-style:outset; border-width: 1px}
+table.blind	{border-style:none}
+th	{border-style: inset; border-width: 1px; padding: 5px; background-color:#E0E0E0; text-align:center;font-family:"Times New Roman",Arial;font-size:12pt;color:#000000}
+th.blind	{border-style: none; border-width: 1px; padding: 5px; text-align:center;font-family:"Times New Roman",Arial;font-size:12pt;color:#000000}
+td	{border-style: inset; border-width: 1px; padding: 5px; text-align:left;font-family:"Times New Roman",Arial,sans-serif;font-size:12pt;color:#000000}
+td.blind	{border-style: none; border-width: 1px; padding: 5px; text-align:left;font-family:"Times New Roman",Arial;font-size:12pt;color:#000000}
+td.hervorheben {border-style: inset; border-width: 1px; padding: 5px; background-color:#E0E0E0; text-align:left;font-family:"Times New Roman",Arial,sans-serif;font-size:12pt;color:#000000}

@@ -1,0 +1,8 @@
+0002;1;Leiterin;25
+0003;1;Sachbearbeiter;50
+0004;1;Sachbearbeiter;50
+0004;2;Leiter;25
+0005;2;Präsentaionsvorbereitung;100
+0004;3;Leiter;25
+0002;3;Sachbearbeiterin;50
+0003;3;Sachbearbeiter;50

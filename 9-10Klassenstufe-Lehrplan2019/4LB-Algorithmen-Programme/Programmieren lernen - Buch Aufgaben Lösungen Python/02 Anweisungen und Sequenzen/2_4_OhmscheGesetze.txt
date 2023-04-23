@@ -1,0 +1,16 @@
+#Berechnen Sie elektrische Widerstände für a) Reihenschaltung und b) Parallelschaltung von zwei gegebenen Widerständen R1 und R2:
+#a) R = R1 + R2
+#b) R = 1/((1/R1)+(1/R2))
+#
+#Schreiben Sie dazu ein Programm, das R1 und R2 entgegennimmt und obige Resultate ausgibt:
+
+r1 = float(input("Widerstand R1: "))
+r2 = float(input("Widerstand R2: "))
+
+ra = r1+r2
+rb = 1/((1/r1)+(1/r2))
+
+print("Gesamtwiderstand Reihe: " + str(ra) + " Ohm")
+print("Gesamtwiderstand Parallel: " + str(rb) + " Ohm")
+
+
