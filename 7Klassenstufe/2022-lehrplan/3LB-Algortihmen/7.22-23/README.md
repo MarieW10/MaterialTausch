@@ -1,10 +1,5 @@
 # Verlaufsplan 7. Klasse Algorithmen 2022/2023
-## Inhalt 
-* Überblick Verlaufsplan
-* Stundenbeschreibung
-* Material
-
-## Überblick Verlaufsplan
+# Überblick Verlaufsplan
 | Stunde | Titel                                                     | Kurzebescheibung/Lernziel                                                                                                                                                                                                              |
 |--------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Algorithmen im Alltag                                     | SuS erkennen, wo ihnen Algorithmen im Alltag begegnen. SuS können Altags-Algorithmen verbanl beschreiben  Bspw. Schulweg, Morgen/Abendroutine kleine Einführung in Flussdiagramme schon einbinden                                      |
@@ -14,3 +9,10 @@
 | 5      | Algorithmen in Scratch programmieren                      | SuS bekommen ein Problem, zu dem sie eigenständig erst ein Flussdiagramm, dann ein Algorithmus prorammieren                                                                                                                            |
 | 6      | Algorithmen in Scratch programmieren Wiederholung/Üben    | SuS wiederholen ihr angeeignetes Wissen zum Thema Algorithmen, üben Algorithen eigenständig in Scratch zu programmieren                                                                                                                |
 | 7      | Praktische LK                                             | SuS bekommen die Aufgabe basierend von einer Beschreibung ein FLussdiagramm und dazu ein Algorithmus in Scratch zu programmieren                                                                                                       |
+
+
+# Unterrichtsbeschreibung
+## 1. Algorithmen im Alltag
+
+
+# Material Übersicht
