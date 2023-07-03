@@ -17,8 +17,9 @@
 - SuS werden gefragt, wo sie solchen Schritt für Schitt Anleitungen im Alltag begegnen
 - SuS bekommen die Aufgabe sich zu überlegen, wie sie einen Algorithmus am Besten grafisch darstellen können, dies sollen sie mit einem eigenen Alltagsalgorithmus selbst umsetzten
 - Ergebnisse der SuS werden im Plenum präsentieren
-- optional HA: SuS sollen einen weiteren Alltagsalgorithmus finden und aufschreiben
-**Material**
+- optional HA: SuS sollen einen weiteren Alltagsalgorithmus finden und aufschreiben  
+**Material**  
+
 Präsentationsfolien: 
 
 ## 2. Definition und Eigenschaften von Algorithmen
