@@ -21,7 +21,7 @@
 
 ### Material
 
-Präsentationsfolien: 
+Präsentationsfolien:\
 Arbeitsblätter
 
 ## 2. Definition und Eigenschaften von Algorithmen
