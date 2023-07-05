@@ -18,12 +18,17 @@
 - SuS bekommen die Aufgabe sich zu überlegen, wie sie einen Algorithmus am Besten grafisch darstellen können, dies sollen sie mit einem eigenen Alltagsalgorithmus selbst umsetzten
 - Ergebnisse der SuS werden im Plenum präsentieren
 - optional HA: SuS sollen einen weiteren Alltagsalgorithmus finden und aufschreiben  
-**Material**  
+
+### Material
 
 Präsentationsfolien: 
+Arbeitsblätter
 
 ## 2. Definition und Eigenschaften von Algorithmen
+- Einstieg: Kaoot mit Fragen dazu, was als ein Alltagslagorithmus verstanden werden kann.
+- 
 
+### Material
 ## 3. Definition und Eigenschaften von Algorithen
 
 ## 4. Kontrollstrukturen und Darstellungsformen von Algorithmen
