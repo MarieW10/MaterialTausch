@@ -10,9 +10,9 @@ Umfang 13 Stunden
 - Beherrschen der Abbildung des Modells als Repräsentation in Daten unter vVerwendung eines Datenbank-Management-Systems
 	- Datenbanksystem als Einheit von Datenbasis und Datenbank-Management-Systems
 - Kennen von Möglichkeiten der Auswertung einer Datenbasis mittels einfacher und zusammengesetzter Abfragen
-		- Verwendung von fachübergreifenden, persönlich bedeutsamen oder gesellschaftlich relevanten Beispielen
-		- Nutzung der Möglichkeit des gewählten Datenbank-Management-Systems
 	- Auswahl von Zeilen und Spalten nach vorgegebenen Kriterien
 	- Verbund von Tabellen
+		- Verwendung von fachübergreifenden, persönlich bedeutsamen oder gesellschaftlich relevanten Beispielen
+		- Nutzung der Möglichkeit des gewählten Datenbank-Management-Systems
 - Einblick gewinnen in Möglichkeiten der Darstellung von Abfrageergebnissen
 	- Berichte, Serienbriefe 
