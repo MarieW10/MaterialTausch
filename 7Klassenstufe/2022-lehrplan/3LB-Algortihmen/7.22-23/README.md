@@ -181,11 +181,11 @@ Arbeitsblätter:
 ### Material
 - YouTube Video: [Das Problem mit den Algorithmen - MedienWissen2Go](https://www.youtube.com/watch?v=IyawbsFGtEM)
 
-# Material Übersicht
-Präsentationsfolien: 50-59\
-Arbeitsblätter:
+# Material Übersicht  
+Präsentationsfolien: 50-59\  
+Arbeitsblätter:  
 - 
 Andere Medien: 
-
+- 
 
 
