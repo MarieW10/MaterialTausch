@@ -179,10 +179,12 @@ Arbeitsblätter:
 	- Die Frage: Sind Algorithmen gut oder böse?Rerst video von MedienWissen2Go: [Das Problem mit den Algorithmen](https://youtu.be/IyawbsFGtEM)
 	
 ### Material
+Präsentationsfolien: 50-59\  
+Andere Medien: 
 - YouTube Video: [Das Problem mit den Algorithmen - MedienWissen2Go](https://www.youtube.com/watch?v=IyawbsFGtEM)
 
 # Material Übersicht  
-Präsentationsfolien: 50-59\  
+
 Arbeitsblätter:  
 - 
 Andere Medien: 
