@@ -41,5 +41,5 @@ Video: [Meilensteine der Informatik](https://www.youtube.com/watch?v=07zsT8lBSjQ
 Präsentaitonsfolien: 6
 
 # Material Übersicht 
-[Präsentation](KL07-WB03-Präsentationsfolien.pdf)
+[Präsentation](KL07-WB03-Präsentationsfolien.pdf)\
 [Meilensteine der Informatik](https://www.youtube.com/watch?v=07zsT8lBSjQ)
