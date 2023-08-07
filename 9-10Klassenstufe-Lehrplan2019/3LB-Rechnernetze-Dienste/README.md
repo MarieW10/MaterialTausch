@@ -1,1 +1,26 @@
-# MaterialTausch
+# Lehrplan Beschreibung - Rechnernetze und Dienste
+Zetlicher Umfang: 8 St. 
+- Kennen ausgewähllter Netzwerkkomponenten und Strukturen
+	- Client, Server
+	- Topologien
+		- Unterscheidlung physikalische und logische Topologien
+		-  Vor- und Nachteile
+	- Netzwerkdimensionen
+		- PAN, LAN, MAN, WAN, GAN
+		- Hinweise auf die im Schulnetz vorhandenen Komponenten
+- Kennen von Diensten und der Bedeutung von PRotokollen in vernetzten Systemen
+	- Informationsdienste
+	- Kommunikations- und Kooperationsdienste
+		- Adressierung von Netzwerkkomponenten
+	- Dateitransfer
+		- Streaming Dienste
+		- Zusammenhang zwischen Diensten und Protokollen
+- Beherrschen grundlegender Dienste des Itnra- und Internets
+	- Schulnetz
+	- Lernmanagementsysteme
+		- ökologisch und sozial veranwortungsbewusste Nutzung digitaler Technologien
+- Sich positionieren zu Maßnahmen zur Datensicherheit und des Datenschutzes in vernetzten Systemen	
+	- Passwortschutz, Verschlüsselung, Zugriffsrechte, Virenschutz
+- Kennen von Umgangsformen im Internet
+	- Netiquette
+	- Beachtung ethischer Prinzipien und kultureller Vielfalt in digitalen Umgebungen
