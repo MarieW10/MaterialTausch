@@ -243,3 +243,4 @@ Weitere Medien:
 (nicht unbedingt passig zu der überarbeitete Unterrichtseinheit)
 - [DBS-Bestandteile und DB Modelle](KL09_LB02_AB_DBS_DBModelle.pdf) 
 - [DB-Grundlagen](KL09_LB02_AB_DB-Grundlagen.pdf)
+- [SQL-Aufgaben für InstaHub](KL09_LB02_AB_SQL-Aufgaben.pdf)
