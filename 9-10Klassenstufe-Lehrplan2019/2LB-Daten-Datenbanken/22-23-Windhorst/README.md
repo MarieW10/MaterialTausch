@@ -39,7 +39,7 @@ To-Do
 		- Überleitung Datenbank
 - Definition Datenbank 
 ### Material 
-Präsentationsfolien: 1-\
+Präsentationsfolien: 1-12\
 Arbeitsblätter:
 Weitere Medien: 
 - [Information is Beautiful](https://informationisbeautiful.net/)
@@ -58,7 +58,7 @@ Weitere Medien:
 		- Passwort: Das von den SuS selbst gewählte Passwort
 
 ### Material
-Präsentationsfolien: /
+Präsentationsfolien: 13-21 /
 Arbeitsblätter:
 Weitere Medien: 
 - [InstaHub-Website](https://instahub.org/#)
@@ -79,7 +79,7 @@ Weitere Medien:
 		- ggf. auf Parallelen aus der Biologie, Chemie, Physik eingehen, was da ein Modell ist 
 
 ### Material 
-Präsentationsfolien: \
+Präsentationsfolien: 22-35\
 Arbeitsblätter: \
 weitere Medien: \
 
@@ -103,7 +103,7 @@ weitere Medien: \
 	- ggf. InstaHub als Beispiel nehmen
 	- D.h. hier die Schritte Anforderungsanalyse und konzeptuelle Modellierung besprechen
 ### Material 
-Präsentationsfolien: \
+Präsentationsfolien: 36-52\
 Arbeitsblätter: \
 weitere Medien: \	
 
@@ -112,7 +112,7 @@ weitere Medien: \
 - Entity Relationship Diagramm
 - SuS sollen auf Basis von dem gelernten Wissen zu Entity Relationship Modelle eigenständig ein ER Modell zu einer Ausgangssituation erstellen
 ### Material 
-Präsentationsfolien: \
+Präsentationsfolien: 53-54 \
 Arbeitsblätter: \
 weitere Medien: \
 
@@ -125,7 +125,7 @@ weitere Medien: \
 - SuS eine Übersicht bereitstellen mit allen wichtigen Grundlagen für die Theorie LK 
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 55-67 \
 Arbeitsblätter:
 - Lernübersicht Grundlagen Datenbanken 
 Weitere Medien: \ 
@@ -135,9 +135,8 @@ Weitere Medien: \
 - Danach sollen die Schüler sich eigenständig in SQL mit Hilfe von SQL-Island einarbeiten.
 - Dafür den SuS Seiten und/oder Material zur Verfügung stellen, womit sie gezielt recherhieren können, wie sie die nötige Informationen für die Aufgaben bekommen können 
 ### Material
-Präsentationsfolien: \
-Arbeitsblätter:
-- Lernübersicht Grundlagen Datenbanken 
+Präsentationsfolien: 68-74\ 
+Arbeitsblätter: \ 
 Weitere Medien: \ 
 
 ## 8 Grundlagen SQL-Abfragen 2/3
@@ -158,7 +157,7 @@ Weitere Medien: \
 		- Vergleichsoperatoren
 - SuS eigene einfache Abfragen in InstaHub ausführen lassen
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 75-87\
 Arbeitsblätter:
 Weitere Medien: \
 
@@ -172,9 +171,10 @@ Weitere Medien: \
 - count
 - **noch weitere SQL Befehle raussuchen**
 - SuS die SQL Befehle bei InstaHub ausprobieren lassen
+- Fokus: SuS schreiben eigene einfache SQL Abfragen 
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 88-92 \
 Arbeitsblätter:
 Weitere Medien: 
 
@@ -189,7 +189,7 @@ Weitere Medien:
 - SuS die Befehle eigenständig bei InstaHub 
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 93-99\
 Arbeitsblätter:
 Weitere Medien: 
 
@@ -201,7 +201,7 @@ Weitere Medien:
 - SuS führen Create Befehle eigenständig aus 
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 100-103 \
 Arbeitsblätter:
 Weitere Medien: 
 
@@ -217,7 +217,7 @@ Weitere Medien:
 	- Alternativ: Die Gruppe halbieren und die eine Gruppe ist ist Pro und die andere Contra der Diskussionsfrage und bekommen die HA sich Notizen zu ihrer Position zu machen, die dann in der nächsten Stunde ausgetauscht werden.
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 104-107\
 Arbeitsblätter:
 Weitere Medien: 
 
@@ -233,8 +233,11 @@ Weitere Medien:
 	- Zukunft der Datenbanktechnologie: Wie wird sich die Datenbanktechnologie in Zukunft weiterentwickeln? Welche Möglichkeiten und Herausforderungen sehen Sie in Bezug auf die Verwaltung und Nutzung von Daten?
 
 ### Material
-Präsentationsfolien: \
+Präsentationsfolien: 108-111 \
 Arbeitsblätter:
 Weitere Medien: 
 
 # Material-Übersicht
+- Präsentation 
+## Arbeitsblätter Sammlung 
+(nicht unbedingt passig zu der überarbeitete Unterrichtseinheit 
