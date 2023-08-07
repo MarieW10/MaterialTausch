@@ -1,4 +1,4 @@
-# Lehrplan Beschreibung
+# Lehrplan Beschreibung - Informationen und Daten
 Zeitlicher Umfang: 13 St.
 - Einblick gewinnen in die Wissenschaft Informatik
 - Kennen der Begriffe Information und Daten
