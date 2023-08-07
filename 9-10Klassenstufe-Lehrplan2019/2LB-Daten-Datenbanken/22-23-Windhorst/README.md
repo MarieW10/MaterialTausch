@@ -240,4 +240,6 @@ Weitere Medien:
 # Material-Übersicht
 - [Präsentation](KL09-10_LB02-Daten+Datenbanken-Päsentationsfolien.pdf) 
 ## Arbeitsblätter Sammlung 
-(nicht unbedingt passig zu der überarbeitete Unterrichtseinheit) 
+(nicht unbedingt passig zu der überarbeitete Unterrichtseinheit)
+- [DBS-Bestandteile und DB Modelle](KL09_LB02_AB_DBS_DBModelle.pdf) 
+- [DB-Grundlagen](KL09_LB02_AB_DB-Grundlagen.pdf)
