@@ -183,11 +183,15 @@ Präsentationsfolien: 50-59\
 Andere Medien: 
 - YouTube Video: [Das Problem mit den Algorithmen - MedienWissen2Go](https://www.youtube.com/watch?v=IyawbsFGtEM)
 
-# Material Übersicht  
+# Material Übersicht 
+[Präsentationsfolien](KL07_LB03-Algorithmen-Präsentationsfolien.pdf)
 
-Arbeitsblätter:  
-- 
+Arbeitsblätter (nicht unbedingt passig zu der überarbeiteten Einheit):  
+- [Grundlagen-Algorithmen](KL07_LB03-AB_Grundlagen.pdf)
+- [Lernübersicht theor. LK](KL07_LB03-AB_Lernübersicht.pdf)
+- [Übungsaufgaben](KL07_LB03-AB_Übungsaufgaben.pdf)
+	- [Musterlösung für Übungsaufgaben](KL07_LB03-AB_Übungsaufgaben-Musterlösung.pdf)
 Andere Medien: 
-- 
+- YouTube Video: [Das Problem mit den Algorithmen - MedienWissen2Go](https://www.youtube.com/watch?v=IyawbsFGtEM)
 
 
